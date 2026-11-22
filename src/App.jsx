@@ -264,7 +264,7 @@ export default function App() {
             </a>
 
             <a
-              href="/SaiPoojitha_veguru.pdf"
+              href="./SaiPoojitha_veguru.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 rounded-full border border-white/15 px-6 py-3.5 text-sm text-white/70 transition hover:border-white/40 hover:text-white"
