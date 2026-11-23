@@ -237,7 +237,7 @@ export default function App() {
         <div className="mx-auto w-full max-w-5xl">
           <div className="inline-flex items-center gap-2 rounded-full border border-cyan-500/30 bg-cyan-500/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-cyan-300 mb-8">
             <span className="h-2 w-2 rounded-full bg-cyan-400 animate-pulse" />
-            Operations & Data Support • Aspiring Security Engineer
+            Software Developer
           </div>
 
           <h1 className="text-5xl font-extrabold tracking-tight sm:text-7xl lg:text-8xl leading-none">
